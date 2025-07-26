@@ -37,4 +37,5 @@ Medibox is an IoT-enabled smart medication management system that combines embed
 | Communication | MQTT | Data transport protocol |
 | Dashboard | Node-RED | Visualization interface |
 
-## System Architecture
+## Simulation
+<img width="682" height="546" alt="Annotation 2025-07-26 222231" src="https://github.com/user-attachments/assets/0309df74-795a-4ce9-bf7b-d7f0baa9ca4f" />
